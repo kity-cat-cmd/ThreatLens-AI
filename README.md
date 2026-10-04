@@ -250,14 +250,3 @@ The project effectiveness is evaluated through:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**fail-diss** - [GitHub](https://github.com/fail-diss)
-
-## Acknowledgments
-
-- OpenAI for GPT API
-- Anthropic for Claude API
-- FastAPI team for the excellent framework
-- All contributors and supporters
