@@ -251,13 +251,3 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 作者
-
-**fail-diss** - [GitHub](https://github.com/fail-diss)
-
-## 致谢
-
-- OpenAI 提供 GPT API
-- Anthropic 提供 Claude API
-- FastAPI 团队提供的优秀框架
-- 所有贡献者和支持者
